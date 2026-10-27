@@ -1,7 +1,7 @@
 // Aleksandrs Homko 251ADB142
 // https://github.com/perkion1/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used: cppreference.com
+// Resources used: ChatGPT (OpenAI, used before 27.10.2026), Claude (Anthropic, used from 27.10.2026, conversation: <https://claude.ai/share/44ecf87d-1cde-422b-86a6-4f3b75a53c97>), cppreference.com // ChatGPT conversation history cannot be provided: it was used on another computer and another person's account (my subscription had ended), which I currently do not have access to.
 
 #include <ctype.h>
 #include <dirent.h>
